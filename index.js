@@ -1,2 +1,3 @@
-exports.Composer = require('NativeModules').RNMessageComposer;
+exports.Composer = require('react-native').NativeModules.RNMessageComposer;
+
 
